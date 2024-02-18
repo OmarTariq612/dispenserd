@@ -1,0 +1,11 @@
+.vscode
+node_modules
+client
+server
+*.sock
+*.unix
+*.json
+
+!cmd/client
+!cmd/server
+!cmd/client/js/package.json
